@@ -5,7 +5,7 @@ This repository contains a complete exercise on essential Python concepts with a
 ## Project Structure
 
 - `data/`: Contains input files (`1tup.pdb`, `actividad.csv`, `ciudades.tsv`)
-- `scripts/actividad1.py`: Python script implementing all exercises
+- `scripts/python_basics_bioinfo.py`: Python script implementing all exercises
 - `README.md`: Project documentation
 
 ## Objective
